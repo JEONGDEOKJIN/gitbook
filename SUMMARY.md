@@ -1,7 +1,6 @@
 # Table of contents
 
-* [테스트](README.md)
+## 테스트요 <a href="#test" id="test"></a>
 
-## Group 1
-
-* [이건 깃북에서 저장](group-1/undefined.md)
+* [이건 깃북에서 저장](README.md)
+* [테스트](test/00.readme.md)
