@@ -44,7 +44,6 @@
   * [트러플(truffle) 환경에서 컨트랙트 배포 하기](blockchain/undefined-1/truffle.md)
   * [대체 비동기가 왜 문제가 되고, 어떻게 대처해야 하는지를 고민해봄](blockchain/undefined-1/undefined-1.md)
   * [업그레이드된 트퍼플 배포 + 야구 게임\_트러플ver2](blockchain/undefined-1/+-\_-ver2.md)
-* [Page](blockchain/page.md)
 
 ## projects
 
@@ -75,3 +74,7 @@
 
 * [SQL 테스트](undefined/sql.md)
 * [관계 대수 & 관계 해석](undefined/and.md)
+
+***
+
+* [깃북에서 저장된게 깃헙에 보이나 보자](undefined-1.md)
